@@ -2,16 +2,16 @@
 title: Auss
 subtitle: Abbood
 email: a.abbood@live.de
-description: This is my personal space.<br /> Find out more about my scientifc and private projects
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: 
+description:  My personal webpage <br /> with all my scientific and private projects.
+baseurl:  # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 author: Auss Abbood
 street_address:
-city: Frankfurt
-state: Hessia
+city: Frankfurt am Main
+state:
 zip_code: 65830
 country: Germany
-phone:
+# phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,14 +20,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
+github_url: https://www.github.com/aauss
+gitlab_url:
+googleplus_url:
+instagram_url:
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/aussmaus
 
 # build settings
 markdown: kramdown
