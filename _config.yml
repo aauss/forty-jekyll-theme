@@ -4,14 +4,14 @@ subtitle: Abbood
 email: a.abbood@live.de
 description: This is my personal space.<br /> Find out more about my scientifc and private projects
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: aauss.github.io
+url: 
 author: Auss Abbood
 street_address:
 city: Frankfurt
 state: Hessia
 zip_code: 65830
 country: Germany
-phone: 
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
