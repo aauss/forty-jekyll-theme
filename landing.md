@@ -39,6 +39,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/wow.jpg" alt=""  />
@@ -55,6 +56,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/car.jpg" alt=""  />
@@ -71,6 +73,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/mammography.jpg" alt=""  />
@@ -87,6 +90,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/oklab.png" alt=""  />
@@ -103,22 +107,58 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt=""  />
+			<img src="assets/images/tumblr.png" alt=""  />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3> Tumblr-Likes Analysis </h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>I used the Tumblr API to efficiently scrape all posts liked, extract the metadata of it and plot my activity. </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+
+	<section>
+	<a href="generic.html" class="image">
+		<img src="assets/images/duel.jpg" alt=""  />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3> A Math Game Running On A Quantum Computer </h3>
+			</header>
+			<p>A Math Game Running On A Quantum Computer Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In ef</p>
+			<ul class="actions">
+				<li><a href="generic.html" class="button">Learn more</a></li>
+			</ul>
+		</div>
+	</div>
+	</section>
+
+	<section>
+	<a href="generic.html" class="image">
+		<img src="assets/images/vr.jpg" alt=""  />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3> A VR Image Viewer Set In Space </h3>
+			</header>
+			<p>A Math Game Running On A Quantum Computer Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In ef</p>
+			<ul class="actions">
+				<li><a href="generic.html" class="button">Learn more</a></li>
+			</ul>
+		</div>
+	</div>
+	</section>
+
 </section>
 
 <!-- Three -->
